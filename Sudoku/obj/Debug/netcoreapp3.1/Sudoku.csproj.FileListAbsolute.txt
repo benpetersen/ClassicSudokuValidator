@@ -1,0 +1,13 @@
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.exe
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.deps.json
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.json
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csprojAssemblyReference.cache
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\Petersens\Documents\Bens\Projects\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.genruntimeconfig.cache
